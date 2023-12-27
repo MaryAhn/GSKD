@@ -1,0 +1,147 @@
+2022-11-18 02:01:10,229 semantic_segmentation INFO: Params: 12.92M FLOPs: 507.35G
+2022-11-18 02:01:10,265 semantic_segmentation INFO: Start validation, Total sample: 125
+2022-11-18 02:01:12,601 semantic_segmentation INFO: Sample: 1, validation pixAcc: 97.014, mIoU: 40.280
+2022-11-18 02:01:13,002 semantic_segmentation INFO: Sample: 2, validation pixAcc: 97.520, mIoU: 49.855
+2022-11-18 02:01:13,455 semantic_segmentation INFO: Sample: 3, validation pixAcc: 97.378, mIoU: 49.974
+2022-11-18 02:01:13,849 semantic_segmentation INFO: Sample: 4, validation pixAcc: 97.208, mIoU: 52.193
+2022-11-18 02:01:14,165 semantic_segmentation INFO: Sample: 5, validation pixAcc: 97.299, mIoU: 51.579
+2022-11-18 02:01:14,485 semantic_segmentation INFO: Sample: 6, validation pixAcc: 97.344, mIoU: 52.146
+2022-11-18 02:01:14,881 semantic_segmentation INFO: Sample: 7, validation pixAcc: 97.182, mIoU: 55.666
+2022-11-18 02:01:15,247 semantic_segmentation INFO: Sample: 8, validation pixAcc: 97.139, mIoU: 60.589
+2022-11-18 02:01:15,562 semantic_segmentation INFO: Sample: 9, validation pixAcc: 97.109, mIoU: 65.807
+2022-11-18 02:01:15,942 semantic_segmentation INFO: Sample: 10, validation pixAcc: 96.833, mIoU: 71.169
+2022-11-18 02:01:16,345 semantic_segmentation INFO: Sample: 11, validation pixAcc: 96.815, mIoU: 71.787
+2022-11-18 02:01:16,707 semantic_segmentation INFO: Sample: 12, validation pixAcc: 96.420, mIoU: 73.337
+2022-11-18 02:01:17,022 semantic_segmentation INFO: Sample: 13, validation pixAcc: 96.355, mIoU: 72.919
+2022-11-18 02:01:17,433 semantic_segmentation INFO: Sample: 14, validation pixAcc: 95.872, mIoU: 70.807
+2022-11-18 02:01:17,841 semantic_segmentation INFO: Sample: 15, validation pixAcc: 95.658, mIoU: 70.356
+2022-11-18 02:01:18,171 semantic_segmentation INFO: Sample: 16, validation pixAcc: 95.445, mIoU: 69.477
+2022-11-18 02:01:18,490 semantic_segmentation INFO: Sample: 17, validation pixAcc: 95.379, mIoU: 69.784
+2022-11-18 02:01:18,896 semantic_segmentation INFO: Sample: 18, validation pixAcc: 95.363, mIoU: 69.912
+2022-11-18 02:01:19,295 semantic_segmentation INFO: Sample: 19, validation pixAcc: 95.268, mIoU: 70.532
+2022-11-18 02:01:19,620 semantic_segmentation INFO: Sample: 20, validation pixAcc: 95.330, mIoU: 71.238
+2022-11-18 02:01:19,927 semantic_segmentation INFO: Sample: 21, validation pixAcc: 95.304, mIoU: 71.325
+2022-11-18 02:01:20,336 semantic_segmentation INFO: Sample: 22, validation pixAcc: 95.079, mIoU: 72.618
+2022-11-18 02:01:20,730 semantic_segmentation INFO: Sample: 23, validation pixAcc: 95.041, mIoU: 72.409
+2022-11-18 02:01:21,105 semantic_segmentation INFO: Sample: 24, validation pixAcc: 95.037, mIoU: 73.128
+2022-11-18 02:01:21,425 semantic_segmentation INFO: Sample: 25, validation pixAcc: 94.833, mIoU: 74.121
+2022-11-18 02:01:21,831 semantic_segmentation INFO: Sample: 26, validation pixAcc: 94.825, mIoU: 74.170
+2022-11-18 02:01:22,205 semantic_segmentation INFO: Sample: 27, validation pixAcc: 94.710, mIoU: 72.755
+2022-11-18 02:01:22,548 semantic_segmentation INFO: Sample: 28, validation pixAcc: 94.580, mIoU: 72.288
+2022-11-18 02:01:22,872 semantic_segmentation INFO: Sample: 29, validation pixAcc: 94.628, mIoU: 72.491
+2022-11-18 02:01:23,282 semantic_segmentation INFO: Sample: 30, validation pixAcc: 94.635, mIoU: 72.728
+2022-11-18 02:01:23,624 semantic_segmentation INFO: Sample: 31, validation pixAcc: 94.654, mIoU: 72.617
+2022-11-18 02:01:23,980 semantic_segmentation INFO: Sample: 32, validation pixAcc: 94.570, mIoU: 72.351
+2022-11-18 02:01:24,290 semantic_segmentation INFO: Sample: 33, validation pixAcc: 94.669, mIoU: 72.506
+2022-11-18 02:01:24,694 semantic_segmentation INFO: Sample: 34, validation pixAcc: 94.643, mIoU: 72.495
+2022-11-18 02:01:25,038 semantic_segmentation INFO: Sample: 35, validation pixAcc: 94.596, mIoU: 72.596
+2022-11-18 02:01:25,347 semantic_segmentation INFO: Sample: 36, validation pixAcc: 94.624, mIoU: 72.502
+2022-11-18 02:01:25,660 semantic_segmentation INFO: Sample: 37, validation pixAcc: 94.644, mIoU: 72.159
+2022-11-18 02:01:26,067 semantic_segmentation INFO: Sample: 38, validation pixAcc: 94.622, mIoU: 72.151
+2022-11-18 02:01:26,466 semantic_segmentation INFO: Sample: 39, validation pixAcc: 94.571, mIoU: 71.565
+2022-11-18 02:01:26,827 semantic_segmentation INFO: Sample: 40, validation pixAcc: 94.617, mIoU: 71.587
+2022-11-18 02:01:27,141 semantic_segmentation INFO: Sample: 41, validation pixAcc: 94.637, mIoU: 71.391
+2022-11-18 02:01:27,557 semantic_segmentation INFO: Sample: 42, validation pixAcc: 94.691, mIoU: 71.389
+2022-11-18 02:01:27,966 semantic_segmentation INFO: Sample: 43, validation pixAcc: 94.720, mIoU: 71.468
+2022-11-18 02:01:28,344 semantic_segmentation INFO: Sample: 44, validation pixAcc: 94.773, mIoU: 71.645
+2022-11-18 02:01:28,669 semantic_segmentation INFO: Sample: 45, validation pixAcc: 94.793, mIoU: 71.527
+2022-11-18 02:01:29,081 semantic_segmentation INFO: Sample: 46, validation pixAcc: 94.834, mIoU: 71.568
+2022-11-18 02:01:29,435 semantic_segmentation INFO: Sample: 47, validation pixAcc: 94.892, mIoU: 71.604
+2022-11-18 02:01:29,775 semantic_segmentation INFO: Sample: 48, validation pixAcc: 94.927, mIoU: 71.497
+2022-11-18 02:01:30,085 semantic_segmentation INFO: Sample: 49, validation pixAcc: 94.954, mIoU: 71.819
+2022-11-18 02:01:30,496 semantic_segmentation INFO: Sample: 50, validation pixAcc: 94.922, mIoU: 72.042
+2022-11-18 02:01:30,858 semantic_segmentation INFO: Sample: 51, validation pixAcc: 94.918, mIoU: 72.100
+2022-11-18 02:01:31,194 semantic_segmentation INFO: Sample: 52, validation pixAcc: 94.910, mIoU: 72.690
+2022-11-18 02:01:31,505 semantic_segmentation INFO: Sample: 53, validation pixAcc: 94.883, mIoU: 72.871
+2022-11-18 02:01:31,918 semantic_segmentation INFO: Sample: 54, validation pixAcc: 94.867, mIoU: 73.190
+2022-11-18 02:01:32,295 semantic_segmentation INFO: Sample: 55, validation pixAcc: 94.764, mIoU: 73.091
+2022-11-18 02:01:32,616 semantic_segmentation INFO: Sample: 56, validation pixAcc: 94.745, mIoU: 72.746
+2022-11-18 02:01:32,927 semantic_segmentation INFO: Sample: 57, validation pixAcc: 94.772, mIoU: 72.807
+2022-11-18 02:01:33,344 semantic_segmentation INFO: Sample: 58, validation pixAcc: 94.810, mIoU: 73.498
+2022-11-18 02:01:33,744 semantic_segmentation INFO: Sample: 59, validation pixAcc: 94.736, mIoU: 73.230
+2022-11-18 02:01:34,054 semantic_segmentation INFO: Sample: 60, validation pixAcc: 94.706, mIoU: 73.083
+2022-11-18 02:01:34,365 semantic_segmentation INFO: Sample: 61, validation pixAcc: 94.717, mIoU: 73.479
+2022-11-18 02:01:34,776 semantic_segmentation INFO: Sample: 62, validation pixAcc: 94.723, mIoU: 73.638
+2022-11-18 02:01:35,171 semantic_segmentation INFO: Sample: 63, validation pixAcc: 94.708, mIoU: 73.566
+2022-11-18 02:01:35,481 semantic_segmentation INFO: Sample: 64, validation pixAcc: 94.690, mIoU: 73.447
+2022-11-18 02:01:35,793 semantic_segmentation INFO: Sample: 65, validation pixAcc: 94.695, mIoU: 73.679
+2022-11-18 02:01:36,197 semantic_segmentation INFO: Sample: 66, validation pixAcc: 94.678, mIoU: 73.656
+2022-11-18 02:01:36,604 semantic_segmentation INFO: Sample: 67, validation pixAcc: 94.567, mIoU: 73.536
+2022-11-18 02:01:36,954 semantic_segmentation INFO: Sample: 68, validation pixAcc: 94.553, mIoU: 73.662
+2022-11-18 02:01:37,259 semantic_segmentation INFO: Sample: 69, validation pixAcc: 94.532, mIoU: 73.490
+2022-11-18 02:01:37,659 semantic_segmentation INFO: Sample: 70, validation pixAcc: 94.556, mIoU: 73.358
+2022-11-18 02:01:38,062 semantic_segmentation INFO: Sample: 71, validation pixAcc: 94.567, mIoU: 73.353
+2022-11-18 02:01:38,409 semantic_segmentation INFO: Sample: 72, validation pixAcc: 94.573, mIoU: 73.064
+2022-11-18 02:01:38,721 semantic_segmentation INFO: Sample: 73, validation pixAcc: 94.564, mIoU: 72.829
+2022-11-18 02:01:39,047 semantic_segmentation INFO: Sample: 74, validation pixAcc: 94.599, mIoU: 72.823
+2022-11-18 02:01:39,452 semantic_segmentation INFO: Sample: 75, validation pixAcc: 94.550, mIoU: 72.914
+2022-11-18 02:01:39,857 semantic_segmentation INFO: Sample: 76, validation pixAcc: 94.553, mIoU: 72.921
+2022-11-18 02:01:40,199 semantic_segmentation INFO: Sample: 77, validation pixAcc: 94.579, mIoU: 72.914
+2022-11-18 02:01:40,539 semantic_segmentation INFO: Sample: 78, validation pixAcc: 94.582, mIoU: 72.891
+2022-11-18 02:01:40,852 semantic_segmentation INFO: Sample: 79, validation pixAcc: 94.572, mIoU: 72.835
+2022-11-18 02:01:41,266 semantic_segmentation INFO: Sample: 80, validation pixAcc: 94.588, mIoU: 72.929
+2022-11-18 02:01:41,599 semantic_segmentation INFO: Sample: 81, validation pixAcc: 94.570, mIoU: 73.068
+2022-11-18 02:01:41,945 semantic_segmentation INFO: Sample: 82, validation pixAcc: 94.583, mIoU: 73.022
+2022-11-18 02:01:42,274 semantic_segmentation INFO: Sample: 83, validation pixAcc: 94.565, mIoU: 72.964
+2022-11-18 02:01:42,684 semantic_segmentation INFO: Sample: 84, validation pixAcc: 94.476, mIoU: 72.764
+2022-11-18 02:01:43,031 semantic_segmentation INFO: Sample: 85, validation pixAcc: 94.231, mIoU: 72.312
+2022-11-18 02:01:43,363 semantic_segmentation INFO: Sample: 86, validation pixAcc: 94.228, mIoU: 72.331
+2022-11-18 02:01:43,674 semantic_segmentation INFO: Sample: 87, validation pixAcc: 94.236, mIoU: 72.313
+2022-11-18 02:01:44,076 semantic_segmentation INFO: Sample: 88, validation pixAcc: 94.265, mIoU: 72.317
+2022-11-18 02:01:44,452 semantic_segmentation INFO: Sample: 89, validation pixAcc: 94.241, mIoU: 72.240
+2022-11-18 02:01:44,816 semantic_segmentation INFO: Sample: 90, validation pixAcc: 94.266, mIoU: 72.201
+2022-11-18 02:01:45,130 semantic_segmentation INFO: Sample: 91, validation pixAcc: 94.287, mIoU: 72.283
+2022-11-18 02:01:45,533 semantic_segmentation INFO: Sample: 92, validation pixAcc: 94.306, mIoU: 73.544
+2022-11-18 02:01:45,871 semantic_segmentation INFO: Sample: 93, validation pixAcc: 94.305, mIoU: 73.503
+2022-11-18 02:01:46,235 semantic_segmentation INFO: Sample: 94, validation pixAcc: 94.347, mIoU: 73.531
+2022-11-18 02:01:46,550 semantic_segmentation INFO: Sample: 95, validation pixAcc: 94.389, mIoU: 73.550
+2022-11-18 02:01:46,957 semantic_segmentation INFO: Sample: 96, validation pixAcc: 94.377, mIoU: 73.552
+2022-11-18 02:01:47,303 semantic_segmentation INFO: Sample: 97, validation pixAcc: 94.357, mIoU: 73.583
+2022-11-18 02:01:47,653 semantic_segmentation INFO: Sample: 98, validation pixAcc: 94.378, mIoU: 73.582
+2022-11-18 02:01:47,970 semantic_segmentation INFO: Sample: 99, validation pixAcc: 94.323, mIoU: 73.574
+2022-11-18 02:01:48,383 semantic_segmentation INFO: Sample: 100, validation pixAcc: 94.314, mIoU: 73.633
+2022-11-18 02:01:48,731 semantic_segmentation INFO: Sample: 101, validation pixAcc: 94.162, mIoU: 73.573
+2022-11-18 02:01:49,106 semantic_segmentation INFO: Sample: 102, validation pixAcc: 94.128, mIoU: 73.408
+2022-11-18 02:01:49,415 semantic_segmentation INFO: Sample: 103, validation pixAcc: 94.124, mIoU: 73.409
+2022-11-18 02:01:49,743 semantic_segmentation INFO: Sample: 104, validation pixAcc: 94.134, mIoU: 73.401
+2022-11-18 02:01:50,142 semantic_segmentation INFO: Sample: 105, validation pixAcc: 94.148, mIoU: 73.392
+2022-11-18 02:01:50,480 semantic_segmentation INFO: Sample: 106, validation pixAcc: 94.162, mIoU: 73.326
+2022-11-18 02:01:50,796 semantic_segmentation INFO: Sample: 107, validation pixAcc: 94.177, mIoU: 73.299
+2022-11-18 02:01:51,122 semantic_segmentation INFO: Sample: 108, validation pixAcc: 94.195, mIoU: 73.413
+2022-11-18 02:01:51,539 semantic_segmentation INFO: Sample: 109, validation pixAcc: 94.203, mIoU: 73.417
+2022-11-18 02:01:51,913 semantic_segmentation INFO: Sample: 110, validation pixAcc: 94.172, mIoU: 73.449
+2022-11-18 02:01:52,253 semantic_segmentation INFO: Sample: 111, validation pixAcc: 94.172, mIoU: 73.443
+2022-11-18 02:01:52,567 semantic_segmentation INFO: Sample: 112, validation pixAcc: 94.160, mIoU: 73.383
+2022-11-18 02:01:52,979 semantic_segmentation INFO: Sample: 113, validation pixAcc: 94.179, mIoU: 73.368
+2022-11-18 02:01:53,338 semantic_segmentation INFO: Sample: 114, validation pixAcc: 94.194, mIoU: 73.359
+2022-11-18 02:01:53,653 semantic_segmentation INFO: Sample: 115, validation pixAcc: 94.208, mIoU: 73.328
+2022-11-18 02:01:53,958 semantic_segmentation INFO: Sample: 116, validation pixAcc: 94.201, mIoU: 73.293
+2022-11-18 02:01:54,349 semantic_segmentation INFO: Sample: 117, validation pixAcc: 94.197, mIoU: 73.357
+2022-11-18 02:01:54,707 semantic_segmentation INFO: Sample: 118, validation pixAcc: 94.198, mIoU: 73.363
+2022-11-18 02:01:55,054 semantic_segmentation INFO: Sample: 119, validation pixAcc: 94.175, mIoU: 73.474
+2022-11-18 02:01:55,361 semantic_segmentation INFO: Sample: 120, validation pixAcc: 94.191, mIoU: 73.450
+2022-11-18 02:01:55,750 semantic_segmentation INFO: Sample: 121, validation pixAcc: 94.201, mIoU: 73.436
+2022-11-18 02:01:56,079 semantic_segmentation INFO: Sample: 122, validation pixAcc: 94.181, mIoU: 73.393
+2022-11-18 02:01:56,381 semantic_segmentation INFO: Sample: 123, validation pixAcc: 94.183, mIoU: 73.384
+2022-11-18 02:01:56,688 semantic_segmentation INFO: Sample: 124, validation pixAcc: 94.192, mIoU: 73.519
+2022-11-18 02:01:57,083 semantic_segmentation INFO: Sample: 125, validation pixAcc: 94.200, mIoU: 73.559
+2022-11-18 02:01:59,361 semantic_segmentation INFO: Overall validation pixAcc: 95.266, mIoU: 74.378
+2022-11-18 02:01:59,361 semantic_segmentation INFO: class 0, IoU: 97.766
+2022-11-18 02:01:59,361 semantic_segmentation INFO: class 1, IoU: 82.578
+2022-11-18 02:01:59,361 semantic_segmentation INFO: class 2, IoU: 91.263
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 3, IoU: 44.267
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 4, IoU: 56.444
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 5, IoU: 59.748
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 6, IoU: 67.815
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 7, IoU: 76.521
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 8, IoU: 91.869
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 9, IoU: 60.732
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 10, IoU: 93.947
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 11, IoU: 79.605
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 12, IoU: 58.559
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 13, IoU: 94.419
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 14, IoU: 74.699
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 15, IoU: 79.579
+2022-11-18 02:01:59,362 semantic_segmentation INFO: class 16, IoU: 69.637
+2022-11-18 02:01:59,363 semantic_segmentation INFO: class 17, IoU: 58.479
+2022-11-18 02:01:59,363 semantic_segmentation INFO: class 18, IoU: 75.262

@@ -1,0 +1,1 @@
+2023-05-16 17:04:04,186 semantic_segmentation INFO: Start validation, Total sample: 250

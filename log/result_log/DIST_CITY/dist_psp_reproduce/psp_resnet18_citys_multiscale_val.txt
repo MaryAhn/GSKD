@@ -1,0 +1,1 @@
+2022-11-16 19:42:05,633 semantic_segmentation INFO: Params: 12.92M FLOPs: 507.35G
