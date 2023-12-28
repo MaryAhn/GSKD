@@ -21,9 +21,15 @@ The code is mostly based on the code in [CIRKD](https://github.com/winycg/CIRKD)
 ## Reference
 
 [1] Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2017). Deeplab: Semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(4), 834–848.
+
 [2] Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). Pyramid scene parsing network. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2881–2890.
+
 [3] Liu, Y., Chen, K., Liu, C., Qin, Z., Luo, Z., & Wang, J. (2019). Structured knowledge distillation for semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2604–2613.
+
 [4] Wang, Y., Zhou, W., Jiang, T., Bai, X., & Xu, Y. (2020). Intra-class Feature Variation Distillation for Semantic Segmentation. Proceedings of the European Conference on Computer Vision.
+
 [5] Xie, J., Shuai, B., Hu, J.-F., Lin, J., & Zheng, W.-S. (2018). Improving fast segmentation with teacher-student learning. ArXiv Preprint ArXiv:1810.08476.
+
 [6] Yang, C., Zhou, H., An, Z., Jiang, X., Xu, Y., & Zhang, Q. (2022). Cross-image relational knowledge distillation for semantic segmentation. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 12319–12328.
+
 [7] Huang, T., You, S., Wang, F., Qian, C., & Xu, C. (2022). Knowledge distillation from a stronger teacher. Advances in Neural Information Processing Systems, 35, 33716–33727.
