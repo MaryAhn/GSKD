@@ -1,5 +1,5 @@
 # GSKD
-**Global Structural Similarity Knowledge Distillation**(Transaction of Image Processing Submitted)
+**Global Structural Similarity Knowledge Distillation** _(Transaction of Image Processing Submitted)_
 
 Keon-hee Ahn*, Hyejin Park*, Hyesong Choi*, and Dongbo Min*
 
